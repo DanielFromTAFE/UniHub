@@ -1,5 +1,5 @@
 # UniHub
- -- Online project hub
+### Online project hub
 
 ## Introduction
 Hubs that is for University student to cooperative online together and share their ideas. "Hubs" allow student to join or create project by searching relate keywords. 
@@ -15,31 +15,31 @@ The Hubs provide the online chat system and file share functions(etc...)
 
 ## Pages
 1. Anonymous
-	-Home Page
-		-Introduction
-	-Register Page
-		-Email Register() -- > EDU.email	
-		-Facebook Register()
-	-Login Page
-		-Facebook Login()
-		-Email Login()
+	- Home Page
+		- Introduction
+	- Register Page
+		- Email Register() -- > EDU.email	
+		- Facebook Register()
+	- Login Page
+		- Facebook Login()
+		- Email Login()
 2. User
-	-Main board
-		-Project browsing -> Prject around the world
-	-Project Searching
-		-Display Result()
-		-Join Project()
-		-Search Project()
+	- Main board
+		- Project browsing -> Prject around the world
+	- Project Searching
+		- Display Result()
+		- Join Project()
+		- Search Project()
 
-	-Message Page	
-		-Review Message()
-		-Send Message()
-	-Profile Page
-		-Change Uni()
-		-Change Password()
-		-Add Project Interest()
+	- Message Page	
+		- Review Message()
+		- Send Message()
+	- Profile Page
+		- Change Uni()
+		- Change Password()
+		- Add Project Interest()
 		
 3. Admin
-	-Account Management
-	-Project Management
-	-Statistic Page
+	- Account Management
+	- Project Management
+	- Statistic Page
