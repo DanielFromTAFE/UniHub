@@ -1,5 +1,5 @@
 # UniHub
-### Online project hub
+### Online project sharing hub
 
 ## Introduction
 Hubs that is for University student to cooperative online together and share their ideas. "Hubs" allow student to join or create project by searching relate keywords. 
